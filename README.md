@@ -16,9 +16,9 @@ Satellite analysis of crop water use in a coastal irrigated area, based on **FAO
 
 | | |
 |---|---|
-| ![Cluster map](figures/en/figure1_cluster_map.png) | **Figure 1.** Two-level K-means classification: cropping systems, then water management of irrigated fields. |
-| ![Seasonal curve](figures/en/figure2_seasonal_curve.png) | **Figure 2.** Water use per dekad, from September to August, for each season (dry seasons in bold). |
-| ![Water productivity](figures/en/figure3_water_productivity.png) | **Figure 3.** Water productivity per season (kg of biomass per m³ consumed). |
+| ![Cluster map](en/figures/figure1_cluster_map.png) | **Figure 1.** Two-level K-means classification: cropping systems, then water management of irrigated fields. |
+| ![Seasonal curve](en/figures/figure2_seasonal_curve.png) | **Figure 2.** Water use per dekad, from September to August, for each season (dry seasons in bold). |
+| ![Water productivity](en/figures/figure3_water_productivity.png) | **Figure 3.** Water productivity per season (kg of biomass per m³ consumed). |
 
 ## Data
 
